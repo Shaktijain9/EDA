@@ -1,0 +1,21 @@
+ScimEn			GDP			Energy
+
+China			China			China2, China, Macao Special Administrative Region4
+United States		United States		United States
+Japan			India			India
+United Kingdom		United Kingdom		United Kingdom
+Russian Federation		Russian Federation		Russian Federation
+Canada			Canada			Canada
+Germany			Germany			Germany
+India			India			India
+France			France			France6
+South Korea		South Korea		(South Korea
+Italy			Italy			Italy9
+Spain			Spain			Spain16
+Iran			Iran, Islamic Rep.		Iran (Islamic Republic of)
+Australia			Australia			Australia1
+Brazil			Brazil			Brazil
+
+
+
+
